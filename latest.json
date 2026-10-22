@@ -1,11 +1,11 @@
 {
-  "version": "1.3.4",
-  "notes": "Release 1.3.4",
-  "pub_date": "2026-10-22T12:00:00Z",
+  "version": "1.3.5",
+  "notes": "Release 1.3.5",
+  "pub_date": "2026-10-22T12:01:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzlvalc3dE5SOXRQTlB3c0RuaHBNU0hBVWkzQXRCaTNsN2lGOHV6dzBuVEdOWWh1TVJHUEpXclJCQmZBejFZMm9ZRXZabVBhZzFkS3JJLzBRTzVBb1FGYW4zUmdWWFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkwNjYzCWZpbGU6TE9DXzEuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuNAp4U2UrZ3pvSnBLT1YyUzIzRUppby9LeUVqSTVFbVVzLzdTZDNWMWdwWDEyMnd4VmxFMkdleTBVZU9xbXJTSVF3UFRsRnhiK3lIWk91ZnIvOXY0MkpDQT09Cg==",
-      "url": "https://github.com/FernandoBaia-alfa/teste-release/releases/tag/v1.3.4"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzlvalc3dE5SOXJqTHZTc3RuOXdxQWpPbEFpTkhDMWN2cW5zdW44MFFLd1lUOHVzSFZvMkprSnVOMXVPSmJrNEg4d0lER01pSWRUUzJmdGdWVFQ4NDBQUzZYUHdEbVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk3MzY3CWZpbGU6TE9DXzEuMy41X3g2NC1zZXR1cC5uc2lzLnppcAl2ZXJzaW9uOjEuMy41CkpXWkJRZTdYcWhBejFBb2YvL1VnMWlsUzNsSnRuQ1h4T29ZcWM2azJwNVRHc1VOTHg5TGhpSVl4a1d3VzZnRDBhc1ZadlhxUURrWER3SzZwTWVMaUFRPT0K",
+      "url": "https://github.com/FernandoBaia-alfa/teste-release/releases/download/v1.3.5/LOC_1.3.5_x64-setup.nsis.zip"
     }
   }
 }
